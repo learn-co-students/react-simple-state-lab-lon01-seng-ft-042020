@@ -28,6 +28,7 @@ body, html, #root {
 }
 
 .cell {
+  border-style: solid;
   width: 80px;
   height: 80px;
 }
